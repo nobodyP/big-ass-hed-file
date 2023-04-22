@@ -10,3 +10,6 @@ when converting a voicebank from either utautautau's or intunist's hed files, go
 its worth it to know that if you're converting from a intunist english vb its not one to one, as i didnt base this hed file off of theirs. that being said if you want any non english or japanese phomemes like a trilled r or a Fricative r use theirs. https://github.com/intunist/nnsvs-english-support
 
 but yeah this is mostly a test and i havent even seen if it trains in the first place so yeah
+
+if you also want the planing sheet here you go
+https://docs.google.com/spreadsheets/d/17rplh1wRRAxZpGVXjSKhnYphF1pKojwcGIOSQszepKg/edit?usp=sharing
