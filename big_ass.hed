@@ -405,6 +405,9 @@ QS "R-exh" {*+exh=*}
 QS "L-axh" {*^axh-*}
 QS "C-axh" {*-axh+*}
 QS "R-axh" {*+axh=*}
+QS "L-trash" {*^trash-*}
+QS "C-trash" {*-axh+*}
+QS "R-trash" {*+trash=*}
 
 # from r9y9/nnsvs/recipes/_common
 
