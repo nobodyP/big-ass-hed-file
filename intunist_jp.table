@@ -1,5 +1,6 @@
-#Intunist's Custom Japanese dictionary.
-#Adds romaji support as well as making vocal fry and glottal stop phonemes more accessible.
+#based on Intunist's Custom Japanese dictionary.
+#this is a dictionary for training, so you can replace it after your done with that
+#or dont, im a dic file not a cop
 息 br
 br br
 pau pau
@@ -952,3 +953,73 @@ Edge vf
 edge vf
 GlottalStop q
 glottalstop q
+br br
+pau pau
+R pau
+sil sil
+exh exh
+axh axh
+vf vf
+cl cl
+ct ct
+cr cr
+ah ah
+aa aa
+ao ao
+ae ae
+ax ax
+iy iy
+ih ih
+uh uh
+uw uw
+eh eh
+er er
+ay ay
+ey ey
+oy oy
+aw aw
+ow ow
+p p
+b b
+t t
+d d
+k k
+g g
+s s
+z z
+ch ch
+j jh
+jh jh
+sh sh
+zh zh
+f f
+v v
+h hh
+hh hh
+th th
+dh dh
+n n
+m m
+ng ng
+w w
+y y
+rr rr
+l l
+q q
+dx dx
+el el
+em em
+en en
+eng ih ng
+ux uw
+nx n
+axr er
+ix ax
+hv hh
+pcl p cl
+bcl b cl
+tcl t cl
+dcl d cl
+kcl k cl
+gcl g cl
+trash trash
